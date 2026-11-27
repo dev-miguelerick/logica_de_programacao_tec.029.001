@@ -1,8 +1,8 @@
 # entrada de dados
-
 n1 = int(input("Informe número: "))
 n2 = int(input("Informe outro número: "))
 
+# processamento 
 soma = n1 + n2
 subtracao = n1 - n2
 multiplicacao = n1 * n2
